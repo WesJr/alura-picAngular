@@ -23,6 +23,8 @@
     "@angular/router": "^4.0.0",
     "bootstrap": "^4.1.1",
     "core-js": "^2.4.1",
+    "jquery": "^1.9.1",
+    "python2": "0.0.1",
     "rxjs": "^6.0.0",
     "rxjs-compat": "^6.5.4",
     "zone.js": "^0.8.14"
